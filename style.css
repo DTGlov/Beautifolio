@@ -1,0 +1,71 @@
+.bb {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+}
+
+.height {
+    min-height: calc(100vh - 70px);
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.73)), url('astro.jpg');
+    background-size: cover;
+    background-repeat: none;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.skbg {
+    background-color: #443730
+}
+
+.title-underline {
+    width: 200px;
+    height: 10px;
+    margin: 0 auto;
+}
+
+.robo {
+    font-family: 'Roboto', sans-serif;
+}
+
+.pro {
+    min-height: calc(100vh - 70px);
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.73)), url('project.jpg');
+    background-size: cover;
+    background-repeat: none;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.tech {
+    min-height: calc(100vh - 70px);
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.73)), url('techguy.jpg');
+    background-size: cover;
+    background-repeat: none;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.tele {
+    min-height: 50vh;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.73)), url('telephone.jpg');
+    background-size: cover;
+    background-repeat: none;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.footer-icon {
+    color: white;
+}
+
+.footer-icon:hover {
+    color: rgb(199, 68, 68)
+}
+
+.foot {
+    background-color: #72452d;
+    font-size: 12px
+}
